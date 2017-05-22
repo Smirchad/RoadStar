@@ -77,11 +77,11 @@ body {
 
 .ServiceTittle {
     width: 100%;
-    background-color: #00B7FF;
+    background-color: #e9ca4e;
 }
 
 #ServiceInfo {
-    background-color: #00B7FF;
+    background-color: #e9ca4e;
     color: white;
     padding: 20px 0 20px 0;
 }
@@ -130,7 +130,7 @@ body {
     margin-top: 20px;
     border-radius: 20px;
     padding: 20px 10px 20px 10px;
-    background-color: rgba(195, 195, 195, 0.2);
+    background-color: rgb(233, 202, 78);
 }
 
 .TestimonialItem p {
@@ -186,11 +186,11 @@ body {
 }
 
 .clientsRow i:hover {
-    color: #00B7FF;
+    color: #e9ca4e;
 }
 
 .blue:hover {
-    color: lightgoldenrodyellow;
+    color: #e9ca4e;
 }
 
 #footer {
@@ -257,4 +257,9 @@ tittleOpaque p {
     font-size: 12px;
     margin-left: 10px;
     text-decoration: none;
+}
+
+.btn {
+    background-color: #e9ca4e;
+    color: black;
 }
