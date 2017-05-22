@@ -14,9 +14,9 @@ body {
 }
 
 #main {
-    background-size: cover;
-    height: 730px;
     color: white;
+    height: 460px;
+    background: url("img/high/auto-2178284_1920.jpg");
 }
 
 #submain {
@@ -255,5 +255,7 @@ tittleOpaque p {
 }
 
 #navbar a {
-    text-decoration: none; margin-left: 30px;
+    font-size: 12px;
+    margin-left: 10px;
+    text-decoration: none;
 }
