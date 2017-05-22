@@ -1,5 +1,6 @@
 body {
     font-family: 'Merriweather', serif;
+    background-color: black;
 }
 
 .container {
@@ -15,8 +16,8 @@ body {
 
 #main {
     color: white;
-    height: 460px;
-    background: url("img/high/auto-2178284_1920.jpg");
+    height: 680px;
+    background: url("img/high/reparing-791413_1920.jpg");
 }
 
 #submain {
@@ -189,7 +190,7 @@ body {
 }
 
 .blue:hover {
-    color: #00B7FF;
+    color: lightgoldenrodyellow;
 }
 
 #footer {
@@ -197,7 +198,6 @@ body {
     color: white;
     padding-top: 50px;
     padding-bottom: 30px;
-    text-align: center;
 }
 
 #footer a {
@@ -207,7 +207,6 @@ body {
 
 #footer h3,
 p {
-    text-align: center;
     margin: auto;
 }
 
